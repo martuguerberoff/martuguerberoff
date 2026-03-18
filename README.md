@@ -41,7 +41,7 @@ Formar parte de un equipo en donde pueda transformar datos e información en ins
 
 ---
 
-## 📂 Últimos proyectos (en progreso o finalizados)
+## 📂 Últimos proyectos
 
 - [📈 Dashboard de expansión para BIOGENESYS](https://github.com/...)
 - [🚴‍♂️ Visualización de ventas en Power BI | AWC](https://github.com/...)
