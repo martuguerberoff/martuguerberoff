@@ -6,7 +6,7 @@
 
 🎓 Soy Trabajadora Social con formación en análisis de datos, en proceso de consolidación hacia dicho campo profesional. 
 
-Cuento con experiencia en la elaboración de informes técnicos, análisis estadísticos y construcción de visualizaciones que contribuyen a la toma de decisiones institucionales. A lo largo de mi trayectoria he combinado lo **social** con los **datos** con el objetivo de transformar datos en información clara, estratégica y con impacto real.
+Cuento con experiencia en la elaboración de informes técnicos, análisis estadísticos y construcción de visualizaciones que contribuyen a la toma de decisiones institucionales. A lo largo de mi trayectoria he combinado lo **social** con los **datos** con el objetivo de transformar datos en información clara y estratégica con impacto real.
 
 🔁 Actualmente me encuentro en una **etapa de transición profesional** hacia el **análisis de datos**, me interesa formar parte de equipos donde pueda aplicar pensamiento crítico, lógica analìtica y habilidades técnicas para transformar datos en insights accionables.
 
@@ -43,7 +43,7 @@ Formar parte de un equipo en donde pueda transformar datos e información en ins
 
 ## 📂 Últimos proyectos
 
-- [📈 Dashboard de expansión para BIOGENESYS](https://github.com/...)
+- [📈 Dashboard de expansión para BIOGENESYS](https://github.com/martuguerberoff/PI-Final-Henry-G2)
 - [🚴‍♂️ Visualización de ventas en Power BI | AWC](https://github.com/...)
 - [🍔 Base de datos relacional para Fast Food](https://github.com/...)
 
