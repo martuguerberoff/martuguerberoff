@@ -43,9 +43,9 @@ Formar parte de un equipo en donde pueda transformar datos e información en ins
 
 ## 📂 Últimos proyectos
 
-- [📈 Dashboard de expansión para BIOGENESYS](https://github.com/martuguerberoff/PI-Final-Henry-G2)
-- [🚴‍♂️ Visualización de ventas en Power BI | AWC](https://github.com/...)
-- [🍔 Base de datos relacional para Fast Food](https://github.com/...)
+- [📊 Epidemiological Analysis | Biogenesys](https://github.com/martuguerberoff/Epidemiological-Analysis-Biogenesys)
+- [📈 Retail Inventory & Profitability Analysis| Prisma Analytics](https://github.com/martuguerberoff/PI-Final-Henry-G2)
+- [🚴‍♂️ Sales Profitability Analysis | AWC](https://github.com/martuguerberoff/Sales-Profitability-Analysis)
 
 ---
 
