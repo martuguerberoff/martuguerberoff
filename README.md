@@ -14,9 +14,9 @@
 |---------------|----------------|
 | Pensamiento analítico 📈 | Power BI 📊 |
 | Análisis cualitativo 🔎 | Python 🐍 |
-| Trabajo interdisciplinario 🤝 | SQL Server 🗄️ |
+| Redacción de informes técnicos ✍️ | SQL Server 🗄️ |
 | Comunicación efectiva 🗣️ | Git & GitHub 🐙 |
-| Redacción de informes técnicos ✍️ | Jupyter Notebook 💼 |
+| Trabajo interdisciplinario 🤝 | Jupyter Notebook 💼 |
 | Proactividad y resolución de problemas ⚙️ | Excel 💡  |
 
 ---
