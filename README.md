@@ -1,14 +1,14 @@
-# 👋 ¡Hola! Soy Martina Guerberoff
+# Data Analyst y Lic. en Trabajo Social | Análisis de datos con perspectiva social y cualitativa
 
 ### 📊 Trabajadora Social en transición hacia el mundo del Análisis de Datos
 
 ---
+# 👋 ¡Hola! Mi nombre es Martina Guerberoff
+🎓 Soy Data Analyst y Licenciada en Trabajo Social, formación que me permite combinar herramientas técnicas de análisis con una perspectiva social y cualitativa de los datos.
 
-🎓 Soy Trabajadora Social con formación en análisis de datos, en proceso de consolidación hacia dicho campo profesional. 
+Cuento con experiencia en la utilización de Power BI, SQL y Python para la elaboración de informes técnicos, análisis estadísticos y construcción de visualizaciones orientadas a la toma de decisiones institucionales. A lo largo de mi trayectoria he combinado el análisis de datos con una mirada integral y contextual, buscando transformar datos en información significativa.
 
-Cuento con experiencia en la elaboración de informes técnicos, análisis estadísticos y construcción de visualizaciones que contribuyen a la toma de decisiones institucionales. A lo largo de mi trayectoria he combinado lo **social** con los **datos** con el objetivo de transformar datos en información clara y estratégica con impacto real.
-
-🔁 Actualmente me encuentro en una **etapa de transición profesional** hacia el **análisis de datos**, me interesa formar parte de equipos donde pueda aplicar pensamiento crítico, lógica analìtica y habilidades técnicas para transformar datos en insights accionables.
+🔁 Me considero una persona analítica, proactiva y con buenas habilidades de comunicación y trabajo en equipo. Me interesa seguir desarrollándome en entornos donde pueda integrar herramientas técnicas con pensamiento crítico, análisis social y trabajo interdisciplinario.
 
 ---
 
