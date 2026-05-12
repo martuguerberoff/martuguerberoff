@@ -13,27 +13,27 @@
 | 🧠 Habilidades | 🔧 Herramientas |
 |---------------|----------------|
 | Pensamiento analítico 📈 | Power BI 📊 |
-| Trabajo colaborativo 🤝 | Microsoft Excel 💡 |
-| Proactividad y enfoque resolutivo ⚙️ | Python 🐍 |
-| Comunicación efectiva 🗣️ | SQL Server 🗄️ |
-| Gestión de Proyectos 📈 | Microsoft Office avanzado 💼 |
-| Comprensión lectora y capacidad de redacción | Git & GitHub 🐙 |
+| Análisis cualitativo 🔎 | Python 🐍 |
+| Trabajo interdisciplinario 🤝 | SQL Server 🗄️ |
+| Comunicación efectiva 🗣️ | Git & GitHub 🐙 |
+| Redacción de informes técnicos ✍️ | Jupyter Notebook 💼 |
+| Proactividad y resolución de problemas ⚙️ | Excel 💡  |
 
 ---
 
 ## 🎯 Mi objetivo profesional
 
-Formar parte de un equipo en donde pueda transformar datos e información en insights accionables, combinando pensamiento analítico y enfoque social para generar impacto en la toma de decisiones estratégicas.
-
+Seguir desarrollándome en el área de análisis de datos, integrando herramientas ténicas con pensamiento crítico y perspectiva social para aportar información clara y contextualizada a la toma de decisiones.
 
 ---
 
 ## 📌 Áreas de interés
 
-- Data Analytics aplicada a negocio, deporte y problemáticas sociales
+- Data Analytics aplicada a problemáticas sociales
 - Business Intelligence
 - Storytelling y visualización de datos
-- Análisis estadístico
+- Análisis cualitativo y cuantitativo
+- Informes y reporting
 
 ---
 
@@ -59,4 +59,4 @@ Formar parte de un equipo en donde pueda transformar datos e información en ins
 
 ---
 
-> “Los datos cobran valor cuando se transforman en decisiones que generan impacto real en las personas.” 🔍📊
+> “Los datos cobran valor cuando entendemos la realidad detrás de ellos.” 🔍📊
